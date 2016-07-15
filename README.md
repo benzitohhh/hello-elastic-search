@@ -72,22 +72,22 @@ Batch processing:
 Bulk with 2 replacements:
 
 ```
-  curl -XPOST 'localhost:9200/customer/external/_bulk?pretty' -d '
-  {"index":{"_id":"1"}}
-  {"name": "John Doe" }
-  {"index":{"_id":"2"}}
-  {"name": "Jane Doe" }
-  '
+curl -XPOST 'localhost:9200/customer/external/_bulk?pretty' -d '
+{"index":{"_id":"1"}}
+{"name": "John Doe" }
+{"index":{"_id":"2"}}
+{"name": "Jane Doe" }
+'
 ```
 
 Bulk with one update, and one deletion:
 
 ```
-  curl -XPOST 'localhost:9200/customer/external/_bulk?pretty' -d '
-  {"update":{"_id":"1"}}
-  {"doc": { "name": "John Doe becomes Jane Doe" } }
-  {"delete":{"_id":"2"}}
-  '
+curl -XPOST 'localhost:9200/customer/external/_bulk?pretty' -d '
+{"update":{"_id":"1"}}
+{"doc": { "name": "John Doe becomes Jane Doe" } }
+{"delete":{"_id":"2"}}
+'
 ```
 
 To load in a dataset from bulk-format file accounts.json:
