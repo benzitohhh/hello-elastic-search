@@ -1,5 +1,8 @@
 # Elastic Search
 
+
+# General stuff
+
 ```
 Start server:     ./bin/elasticsearch
 Health check:     curl 'localhost:9200/_cat/health?v'
@@ -65,9 +68,6 @@ To delete index customer
 ```
 curl -XDELETE 'localhost:9200/customer?pretty'
 ```
-
-
-Batch processing:
 
 Bulk with 2 replacements:
 
@@ -294,4 +294,11 @@ curl -XPOST 'localhost:9200/bank/_search?pretty' -d '
     }
   }
 }'
+```
+
+
+## Python
+
+```
+pip install elasticsearch
 ```

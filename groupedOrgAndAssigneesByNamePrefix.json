@@ -1,0 +1,3406 @@
+[
+    {
+        "abbreviation": "",
+        "assignees": [
+            {
+                "abbreviation": "BOSE CO LTD",
+                "assignee_id": 703756,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "BOSE CORP",
+                "assignee_id": 3287,
+                "size": 818,
+                "sizeActive": 634
+            },
+            {
+                "abbreviation": "BOSE CORPORATIOIN",
+                "assignee_id": 2014117,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "BOSE CORPORATION THE MOUNTAIN",
+                "assignee_id": 1916253,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "BOSE INC",
+                "assignee_id": 190931,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "BOSE INC S",
+                "assignee_id": 1574334,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "BOSE LLC",
+                "assignee_id": 703754,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "BOSE PROD INC",
+                "assignee_id": 1829919,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "THE BOSE CORPORATION",
+                "assignee_id": 1917559,
+                "size": 7,
+                "sizeActive": 0
+            }
+        ],
+        "eset": 3287,
+        "name": "Bose Corporation",
+        "size": 826,
+        "sizeActive": 635,
+        "type": "parent"
+    },
+    {
+        "abbreviation": "",
+        "assignees": [
+            {
+                "abbreviation": "NITTO BOSEKI C LTD",
+                "assignee_id": 1895002,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "NITTO BOSEKI CO LTD",
+                "assignee_id": 1217,
+                "size": 1991,
+                "sizeActive": 464
+            },
+            {
+                "abbreviation": "NITTO BOSEKI CO LTD 1",
+                "assignee_id": 1876217,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "NITTO BOSEKI CO LTD CHINA",
+                "assignee_id": 1108952,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "NITTO BOSEKI CO LTD NO 1",
+                "assignee_id": 1873477,
+                "size": 3,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "NITTO BOSEKI COMPANY LTD",
+                "assignee_id": 1995113,
+                "size": 1,
+                "sizeActive": 1
+            }
+        ],
+        "eset": 1217,
+        "name": "NITTO BOSEKI CO LTD",
+        "size": 1996,
+        "sizeActive": 465,
+        "type": "parent"
+    },
+    {
+        "abbreviation": "",
+        "assignees": [
+            {
+                "abbreviation": "KURASHIKI BOSEI KK",
+                "assignee_id": 1789796,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KURASHIKI BOSEKI KK",
+                "assignee_id": 12178,
+                "size": 175,
+                "sizeActive": 88
+            }
+        ],
+        "eset": 12178,
+        "name": "KURASHIKI BOSEKI KK",
+        "size": 175,
+        "sizeActive": 88,
+        "type": "parent"
+    },
+    {
+        "abbreviation": "",
+        "assignees": [
+            {
+                "abbreviation": "SHIKISHIMA BOEKI KK",
+                "assignee_id": 946871,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "SHIKISHIMA BOHSEKI",
+                "assignee_id": 542473,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "SHIKISHIMA BOSEKI KG",
+                "assignee_id": 542472,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "SHIKISHIMA BOSEKI KK",
+                "assignee_id": 6788,
+                "size": 255,
+                "sizeActive": 76
+            },
+            {
+                "abbreviation": "SHIKISHIMA BOUSEKI",
+                "assignee_id": 946869,
+                "size": 1,
+                "sizeActive": 0
+            }
+        ],
+        "eset": 6788,
+        "name": "SHIKISHIMA BOSEKI KK",
+        "size": 260,
+        "sizeActive": 76,
+        "type": "parent"
+    },
+    {
+        "abbreviation": "",
+        "assignees": [
+            {
+                "abbreviation": "BOSE INST",
+                "assignee_id": 88762,
+                "size": 18,
+                "sizeActive": 11
+            },
+            {
+                "abbreviation": "BOSE INST AND DEPT BIOTECHNOLOGY",
+                "assignee_id": 703755,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "BOSE NAT CENT BASIC SCI KOLKATA S N",
+                "assignee_id": 1574333,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "BOSE NAT CENT BASIC SCI S N",
+                "assignee_id": 252857,
+                "size": 11,
+                "sizeActive": 6
+            }
+        ],
+        "eset": 88762,
+        "name": "Bose Institute",
+        "size": 30,
+        "sizeActive": 17,
+        "type": "parent"
+    },
+    {
+        "abbreviation": "",
+        "assignees": [
+            {
+                "abbreviation": "NISSHIN BOEKI KK",
+                "assignee_id": 583776,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "NISSHIN BOSCKI KK",
+                "assignee_id": 2981077,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "NISSHIN BOSEKI KK",
+                "assignee_id": 20194,
+                "size": 31,
+                "sizeActive": 3
+            }
+        ],
+        "eset": 20194,
+        "name": "NISSHIN BOSEKI KK",
+        "size": 34,
+        "sizeActive": 3,
+        "type": "parent"
+    },
+    {
+        "abbreviation": "",
+        "assignees": [
+            {
+                "abbreviation": "FUJI BOEKI KK",
+                "assignee_id": 353353,
+                "size": 4,
+                "sizeActive": 2
+            },
+            {
+                "abbreviation": "FUJI BOSEKI KK",
+                "assignee_id": 353350,
+                "size": 4,
+                "sizeActive": 0
+            }
+        ],
+        "eset": 353350,
+        "name": "FUJI BOSEKI KK",
+        "size": 8,
+        "sizeActive": 2,
+        "type": "parent"
+    },
+    {
+        "abbreviation": "",
+        "assignees": [
+            {
+                "abbreviation": "TOYO BOEKI KABUSHIKI KAISHA",
+                "assignee_id": 1925719,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYO BOSEIKI KABUSHIKI KAISHA",
+                "assignee_id": 1994886,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYO BOSEKI KABUSHIKI KAISA",
+                "assignee_id": 1943525,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYO BOSEKI KABUSIKI KAISA",
+                "assignee_id": 1917646,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYO BOSEKI KAUSHIKI KAISHA",
+                "assignee_id": 1908897,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYO BOSEKIK KABUSHIKI KAISHA",
+                "assignee_id": 2024087,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYO BOSEKL KABUSHIKI KAISHA",
+                "assignee_id": 1766532,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYO HOSEKI KABUSHIKI KAISHA",
+                "assignee_id": 1913832,
+                "size": 1,
+                "sizeActive": 0
+            }
+        ],
+        "eset": 1766532,
+        "name": "TOYO BOSEKL KABUSHIKI KAISHA",
+        "size": 7,
+        "sizeActive": 1,
+        "type": "parent"
+    },
+    {
+        "abbreviation": "",
+        "assignees": [
+            {
+                "abbreviation": "SHIKISHIMA BOSEKE K",
+                "assignee_id": 946870,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "SHIKISHIMA BOSEKI K",
+                "assignee_id": 44353,
+                "size": 62,
+                "sizeActive": 0
+            }
+        ],
+        "eset": 44353,
+        "name": "SHIKISHIMA BOSEKI K",
+        "size": 63,
+        "sizeActive": 0,
+        "type": "parent"
+    },
+    {
+        "abbreviation": "",
+        "assignees": [
+            {
+                "abbreviation": "SANWA BOSEI KK",
+                "assignee_id": 270675,
+                "size": 7,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "SANWA BUSEI KK",
+                "assignee_id": 1007978,
+                "size": 1,
+                "sizeActive": 0
+            }
+        ],
+        "eset": 270675,
+        "name": "SANWA BOSEI KK",
+        "size": 8,
+        "sizeActive": 0,
+        "type": "parent"
+    },
+    {
+        "abbreviation": "",
+        "assignees": [
+            {
+                "abbreviation": "HASETORA BOSEKI KK",
+                "assignee_id": 287363,
+                "size": 5,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "HASETORA BOUSEKI KK",
+                "assignee_id": 3067575,
+                "size": 2,
+                "sizeActive": 0
+            }
+        ],
+        "eset": 287363,
+        "name": "HASETORA BOSEKI KK",
+        "size": 7,
+        "sizeActive": 0,
+        "type": "parent"
+    },
+    {
+        "abbreviation": "",
+        "assignees": [
+            {
+                "abbreviation": "DAIICHI BOEKI KK",
+                "assignee_id": 1495369,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "DAIICHI BOHSEKI KK",
+                "assignee_id": 1495368,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "DAIICHI BOSEKI KK",
+                "assignee_id": 294576,
+                "size": 4,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "DAIICHI BOUSEKI KK",
+                "assignee_id": 1495366,
+                "size": 0,
+                "sizeActive": 0
+            }
+        ],
+        "eset": 294576,
+        "name": "DAIICHI BOSEKI KK",
+        "size": 6,
+        "sizeActive": 0,
+        "type": "parent"
+    },
+    {
+        "abbreviation": "",
+        "assignees": [
+            {
+                "abbreviation": "TAISHO BOEKI KK",
+                "assignee_id": 887774,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TAISHO BOSEKI KK",
+                "assignee_id": 391209,
+                "size": 3,
+                "sizeActive": 0
+            }
+        ],
+        "eset": 391209,
+        "name": "TAISHO BOSEKI KK",
+        "size": 4,
+        "sizeActive": 0,
+        "type": "parent"
+    },
+    {
+        "abbreviation": "",
+        "assignees": [
+            {
+                "abbreviation": "NITTO BASEKI KK",
+                "assignee_id": 3250257,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "NITTO BOSEKI KK",
+                "assignee_id": 417992,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "NITTO BOSERI KK",
+                "assignee_id": 1108951,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "NITTO NOSEKI KK",
+                "assignee_id": 1108880,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "NITTO ROSEKI KK",
+                "assignee_id": 583585,
+                "size": 2,
+                "sizeActive": 0
+            }
+        ],
+        "eset": 417992,
+        "name": "NITTO BOSEKI KK",
+        "size": 5,
+        "sizeActive": 0,
+        "type": "parent"
+    },
+    {
+        "abbreviation": "",
+        "assignees": [
+            {
+                "abbreviation": "TOA BOSEKI KK",
+                "assignee_id": 519055,
+                "size": 3,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOA BOSERI KK",
+                "assignee_id": 3165283,
+                "size": 1,
+                "sizeActive": 0
+            }
+        ],
+        "eset": 519055,
+        "name": "TOA BOSEKI KK",
+        "size": 4,
+        "sizeActive": 0,
+        "type": "parent"
+    },
+    {
+        "abbreviation": "",
+        "assignees": [
+            {
+                "abbreviation": "SHAANXI BOSE BIOPHARMACEUTICAL GROUP CO LTD",
+                "assignee_id": 989617,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "SHAANXI BOSEN BIOPHARMACEUTICAL GROUP CO LTD",
+                "assignee_id": 989614,
+                "size": 1,
+                "sizeActive": 0
+            }
+        ],
+        "eset": 989614,
+        "name": "SHAANXI BOSEN BIOPHARMACEUTICAL GROUP CO LTD",
+        "size": 2,
+        "sizeActive": 0,
+        "type": "parent"
+    },
+    {
+        "abbreviation": "",
+        "assignees": [
+            {
+                "abbreviation": "NITTON BOSEKI KK",
+                "assignee_id": 1108821,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "NITTON BOSERI KK",
+                "assignee_id": 3253050,
+                "size": 1,
+                "sizeActive": 0
+            }
+        ],
+        "eset": 1108821,
+        "name": "NITTON BOSEKI KK",
+        "size": 2,
+        "sizeActive": 0,
+        "type": "parent"
+    },
+    {
+        "abbreviation": "",
+        "assignees": [
+            {
+                "abbreviation": "MATSUZAKA BOEKI KK",
+                "assignee_id": 1174335,
+                "size": 4,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "MATSUZAKA BOSEKI KK",
+                "assignee_id": 1174334,
+                "size": 1,
+                "sizeActive": 0
+            }
+        ],
+        "eset": 1174334,
+        "name": "MATSUZAKA BOSEKI KK",
+        "size": 5,
+        "sizeActive": 0,
+        "type": "parent"
+    },
+    {
+        "abbreviation": "",
+        "assignees": [
+            {
+                "abbreviation": "AOI BOEKI KK",
+                "assignee_id": 2993647,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "AOI BOSEKI KK",
+                "assignee_id": 1634710,
+                "size": 1,
+                "sizeActive": 0
+            }
+        ],
+        "eset": 1634710,
+        "name": "AOI BOSEKI KK",
+        "size": 2,
+        "sizeActive": 0,
+        "type": "parent"
+    },
+    {
+        "abbreviation": "",
+        "assignees": [
+            {
+                "abbreviation": "TOYO BOSEKI KABUSHIKA KAISHA 2 8",
+                "assignee_id": 1885829,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYO BOSEKI KABUSHIKI KAISHA 2 8",
+                "assignee_id": 1881772,
+                "size": 5,
+                "sizeActive": 0
+            }
+        ],
+        "eset": 1881772,
+        "name": "TOYO BOSEKI KABUSHIKI KAISHA 2 8",
+        "size": 5,
+        "sizeActive": 0,
+        "type": "parent"
+    },
+    {
+        "abbreviation": "TOYOTA BOSEKI KABUSHIKI KAISHA",
+        "assignees": [
+            {
+                "abbreviation": "50 INTEREST TO TOYOTA JIDOSHA KABUSHIKI KAISHA",
+                "assignee_id": 2068564,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "AIRFLITE INC",
+                "assignee_id": 1806384,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "AISIN AW CO LTD AND TOYOTA JIDOSHA KABUSHIKI KA",
+                "assignee_id": 1947557,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "ALTEX CO",
+                "assignee_id": 2001255,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "ALTEX CO LTD",
+                "assignee_id": 721657,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "ALTRAN CORP",
+                "assignee_id": 721601,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "BT IND",
+                "assignee_id": 169487,
+                "size": 9,
+                "sizeActive": 6
+            },
+            {
+                "abbreviation": "BT IND AB",
+                "assignee_id": 21676,
+                "size": 59,
+                "sizeActive": 22
+            },
+            {
+                "abbreviation": "BT INDUSTRIES AB",
+                "assignee_id": 217489,
+                "size": 13,
+                "sizeActive": 5
+            },
+            {
+                "abbreviation": "BT PRIME MOVER INC",
+                "assignee_id": 702296,
+                "size": 2,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "BT PROD AB",
+                "assignee_id": 29014,
+                "size": 62,
+                "sizeActive": 56
+            },
+            {
+                "abbreviation": "CASCADE CORP",
+                "assignee_id": 38353,
+                "size": 100,
+                "sizeActive": 33
+            },
+            {
+                "abbreviation": "CASCADE NV",
+                "assignee_id": 1557474,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "CATALAR KOGYO KK",
+                "assignee_id": 55271,
+                "size": 41,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "CATALER CO LTD",
+                "assignee_id": 1556838,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "CATALER CORP",
+                "assignee_id": 10980,
+                "size": 172,
+                "sizeActive": 147
+            },
+            {
+                "abbreviation": "CATALER IND CO LTD",
+                "assignee_id": 4606,
+                "size": 352,
+                "sizeActive": 172
+            },
+            {
+                "abbreviation": "CATALER KK",
+                "assignee_id": 1556837,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "CATALER KOGYO KK",
+                "assignee_id": 15127,
+                "size": 122,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "CATALYER KOGYO KK",
+                "assignee_id": 1556812,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "CATELER KOGYO KK",
+                "assignee_id": 1556695,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "CENTRAL JIDOSHA KK",
+                "assignee_id": 5722,
+                "size": 312,
+                "sizeActive": 26
+            },
+            {
+                "abbreviation": "CESAB CARRELLI ELEVATORI",
+                "assignee_id": 217052,
+                "size": 5,
+                "sizeActive": 2
+            },
+            {
+                "abbreviation": "CESAB CARRELLI ELEVATORI SPA",
+                "assignee_id": 2058092,
+                "size": 2,
+                "sizeActive": 2
+            },
+            {
+                "abbreviation": "DAIHATSU KOGYO KK",
+                "assignee_id": 42606,
+                "size": 46,
+                "sizeActive": 11
+            },
+            {
+                "abbreviation": "DAIHATSU MOTOR CO LTD",
+                "assignee_id": 264,
+                "size": 9014,
+                "sizeActive": 4128
+            },
+            {
+                "abbreviation": "DAIHATSU MOTOT CO LTD",
+                "assignee_id": 2076432,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "FAW TOYOTA MOTOR SALES CO LTD",
+                "assignee_id": 456697,
+                "size": 3,
+                "sizeActive": 3
+            },
+            {
+                "abbreviation": "HARA CORP",
+                "assignee_id": 348971,
+                "size": 4,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "HARA KOGYO KK",
+                "assignee_id": 27861,
+                "size": 56,
+                "sizeActive": 38
+            },
+            {
+                "abbreviation": "HARA SEISAKUSHO YG",
+                "assignee_id": 348969,
+                "size": 4,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "HYCO CASCADE PTY LTD",
+                "assignee_id": 1311492,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "IZUMI MACHINE MFG CO",
+                "assignee_id": 2052628,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "IZUMI MACHINE MFG CO LTD",
+                "assignee_id": 209154,
+                "size": 5,
+                "sizeActive": 5
+            },
+            {
+                "abbreviation": "KABUSHIKA KAISH TOYOTA CHUO KENKYUSHO",
+                "assignee_id": 1895438,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISA TOYOTA CHUO KENKYUSHO",
+                "assignee_id": 1882769,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISDHA TOYOTA CHUO KENKYUSHO",
+                "assignee_id": 2008109,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISHA KAISHA TOYOTA CHUO KENKYUSHO 41 1",
+                "assignee_id": 1900772,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISHA OHAZA TOYOTA",
+                "assignee_id": 1936303,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISHA TOYODA CHUO KENKYUSO",
+                "assignee_id": 1864662,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISHA TOYOTA CHO KENKYUSHO",
+                "assignee_id": 1955637,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISHA TOYOTA CHUO KANKYUSHO 41 1 AZA YO",
+                "assignee_id": 1898882,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISHA TOYOTA CHUO KEKYUSHO",
+                "assignee_id": 1915337,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISHA TOYOTA CHUO KENKYUCHO 41 1",
+                "assignee_id": 1889723,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISHA TOYOTA CHUO KENKYUOSHO",
+                "assignee_id": 1967326,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISHA TOYOTA CHUO KENKYUSCHO",
+                "assignee_id": 2043022,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISHA TOYOTA CHUO KENKYUSHI",
+                "assignee_id": 2073953,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISHA TOYOTA CHUO KENKYUSHIO",
+                "assignee_id": 2061220,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISHA TOYOTA CHUO KENKYUSHO 41 1",
+                "assignee_id": 1870714,
+                "size": 23,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISHA TOYOTA CHUO KENKYUSHO 41 1 AZA YO",
+                "assignee_id": 1881266,
+                "size": 3,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISHA TOYOTA CHUO KENKYUSHO A CORPOR",
+                "assignee_id": 1953455,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISHA TOYOTA CHUO KENKYUSHO A JAPANESE",
+                "assignee_id": 1897584,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISHA TOYOTA CHUO KENKYUSHO AICHI GUN",
+                "assignee_id": 1889074,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISHA TOYOTA CHUO KENKYUSHO AICHI KEN",
+                "assignee_id": 1900206,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISHA TOYOTA CHUO KENKYUSHO AICHI STEEL",
+                "assignee_id": 1890815,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISHA TOYOTA CHUO KENKYUSHO NO 41 1",
+                "assignee_id": 1892150,
+                "size": 4,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISHA TOYOTA CHUO KENKYUSHO TEMPAKU KU",
+                "assignee_id": 1877421,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISHA TOYOTA CHUO KENKYYUSHO",
+                "assignee_id": 2023822,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISHA TOYOTA CHUO KENYUSHO 41 1",
+                "assignee_id": 1879491,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISHA TOYOTA CHUO KNKYUSHO",
+                "assignee_id": 1914269,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISHA TOYOTA CUNO KENYUSHO",
+                "assignee_id": 2037559,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISHA TOYOTA HUO KENKYUSHO 41 1",
+                "assignee_id": 1896503,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISHA TOYOTA JIDOSHOKI",
+                "assignee_id": 2007220,
+                "size": 3,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISHA TOYOTA JIDOSHOKKI 75",
+                "assignee_id": 2091142,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISHA TOYOTA JIDOSHOKKI AT 2 1",
+                "assignee_id": 2079789,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISHA TOYOTO JIDOSHOKKI",
+                "assignee_id": 2058713,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISHS TOYOTA CHUO KENKYUSHO",
+                "assignee_id": 1889955,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISYA TOYODA JIDOSHOKKI",
+                "assignee_id": 2016354,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISYA TOYOTA CHUO KENKYUSHO",
+                "assignee_id": 1993552,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KABUSHIKI KAISYA TOYOTA JIDOSYOKKI",
+                "assignee_id": 2078172,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "KABUSHIKI KASHA TOYOTA CHUO KENKYUSHO",
+                "assignee_id": 1887832,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KABUSHIKI KASHA TOYOTA CHUO KENKYUSHO 41 1",
+                "assignee_id": 1900093,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KANTO AUTO WORKS LTD",
+                "assignee_id": 38050,
+                "size": 18,
+                "sizeActive": 6
+            },
+            {
+                "abbreviation": "KAWAMOTO SYSTEM CORP",
+                "assignee_id": 1240908,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KK TOYOTA CHUO KENKYUSHO",
+                "assignee_id": 615812,
+                "size": 7,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KK TOYTA CHUO KENKYUSHO",
+                "assignee_id": 1827769,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KOKUSAI CO LTD",
+                "assignee_id": 614855,
+                "size": 2,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "KOKUSAI DENK KK",
+                "assignee_id": 1229159,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KOKUSAI DENKI KK",
+                "assignee_id": 121,
+                "size": 13726,
+                "sizeActive": 3152
+            },
+            {
+                "abbreviation": "KOKUSAI DENKO KK",
+                "assignee_id": 2991858,
+                "size": 8,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KOKUSAI DUNKO KK",
+                "assignee_id": 3141768,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KOKUSAI KENKI KK",
+                "assignee_id": 2955559,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KOKUSAI KOGYO CO LTD",
+                "assignee_id": 182997,
+                "size": 9,
+                "sizeActive": 5
+            },
+            {
+                "abbreviation": "KOKUSAI KOGYO KK",
+                "assignee_id": 9867,
+                "size": 185,
+                "sizeActive": 85
+            },
+            {
+                "abbreviation": "KOKUSAN DENKI CO LTD",
+                "assignee_id": 1831,
+                "size": 1142,
+                "sizeActive": 282
+            },
+            {
+                "abbreviation": "KOSHI CENT TOYOTA KK",
+                "assignee_id": 1225073,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KTL CO LTD",
+                "assignee_id": 123027,
+                "size": 12,
+                "sizeActive": 10
+            },
+            {
+                "abbreviation": "KUOZUI MOTORS LTD",
+                "assignee_id": 339170,
+                "size": 4,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "MICHIGAN AUTOMOTIVE COMPRESSOR INC",
+                "assignee_id": 1160140,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "NISHINA KOGYO KK",
+                "assignee_id": 37913,
+                "size": 30,
+                "sizeActive": 7
+            },
+            {
+                "abbreviation": "NISSAN TEXSYS CO LTD",
+                "assignee_id": 112549,
+                "size": 7,
+                "sizeActive": 2
+            },
+            {
+                "abbreviation": "NISSAN TEXSYS KK",
+                "assignee_id": 1109740,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "PANASONIC EV ENERGY CO LTD",
+                "assignee_id": 576696,
+                "size": 109,
+                "sizeActive": 107
+            },
+            {
+                "abbreviation": "PANASONIC EV ENERGY KK",
+                "assignee_id": 7414,
+                "size": 172,
+                "sizeActive": 129
+            },
+            {
+                "abbreviation": "PRIME MOVER CO",
+                "assignee_id": 1057668,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "PRIMEARTH EV ENERGY CO LTD",
+                "assignee_id": 81423,
+                "size": 43,
+                "sizeActive": 41
+            },
+            {
+                "abbreviation": "RAYMOND CO",
+                "assignee_id": 1037654,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "RAYMOND CORP",
+                "assignee_id": 15053,
+                "size": 146,
+                "sizeActive": 83
+            },
+            {
+                "abbreviation": "RIKEN FORGE CO LTD",
+                "assignee_id": 408380,
+                "size": 3,
+                "sizeActive": 2
+            },
+            {
+                "abbreviation": "RONCARI SRL",
+                "assignee_id": 324821,
+                "size": 3,
+                "sizeActive": 2
+            },
+            {
+                "abbreviation": "RUF TELEMATIK AG",
+                "assignee_id": 1020089,
+                "size": 3,
+                "sizeActive": 2
+            },
+            {
+                "abbreviation": "TB KAWASHIMA CO LTD",
+                "assignee_id": 58168,
+                "size": 28,
+                "sizeActive": 26
+            },
+            {
+                "abbreviation": "TB KAWASHIMA KK",
+                "assignee_id": 50231,
+                "size": 27,
+                "sizeActive": 22
+            },
+            {
+                "abbreviation": "TOKYO JIDOSHA KK",
+                "assignee_id": 387261,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOKYU CO LTD",
+                "assignee_id": 23959,
+                "size": 63,
+                "sizeActive": 10
+            },
+            {
+                "abbreviation": "TOKYU DENSETSU KK",
+                "assignee_id": 853254,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOKYU KENSETSU KK",
+                "assignee_id": 2390,
+                "size": 863,
+                "sizeActive": 338
+            },
+            {
+                "abbreviation": "TOKYU KENSETSY KK",
+                "assignee_id": 853248,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOKYU KENSETU KK",
+                "assignee_id": 853247,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOTOTA JIDOSHA KK",
+                "assignee_id": 517096,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOVOTA JIDOSHA KK",
+                "assignee_id": 848416,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYODA AUTOMATIC LOOM CO",
+                "assignee_id": 516760,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYODA AUTOMATIC LOOM CO LTD",
+                "assignee_id": 1173,
+                "size": 1990,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYODA AUTOMATIC LOOM WORKS",
+                "assignee_id": 153,
+                "size": 12130,
+                "sizeActive": 4355
+            },
+            {
+                "abbreviation": "TOYODA AUTOMATIC LOOM WORKS CO LTD",
+                "assignee_id": 516759,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYODA AUTOMATIC LOOM WORKS LTD",
+                "assignee_id": 386472,
+                "size": 7,
+                "sizeActive": 4
+            },
+            {
+                "abbreviation": "TOYODA AUTOMATIC LOOMS CO",
+                "assignee_id": 2857671,
+                "size": 4,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYODA BOSHOKU CORP",
+                "assignee_id": 25034,
+                "size": 56,
+                "sizeActive": 38
+            },
+            {
+                "abbreviation": "TOYODA BOSHOKU KK",
+                "assignee_id": 19868,
+                "size": 69,
+                "sizeActive": 11
+            },
+            {
+                "abbreviation": "TOYODA BOSHUKU CORP",
+                "assignee_id": 847526,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYODA BOSYOKU KK",
+                "assignee_id": 847525,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYODA BOUSHOKU KK",
+                "assignee_id": 3071208,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYODA JIDOSHA KK",
+                "assignee_id": 80376,
+                "size": 4,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYODA JIDOSHOKKI KK",
+                "assignee_id": 6151,
+                "size": 88,
+                "sizeActive": 46
+            },
+            {
+                "abbreviation": "TOYODA JIDOSHOKKI SEISAKUSHO KK",
+                "assignee_id": 1548,
+                "size": 1349,
+                "sizeActive": 330
+            },
+            {
+                "abbreviation": "TOYODA JIDOSHOKKI SIESAKUSHO KK",
+                "assignee_id": 847512,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYODA TSHUSHO KK",
+                "assignee_id": 847495,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYODA TSUSHO KAISHA",
+                "assignee_id": 95878,
+                "size": 16,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYODA TSUSHO KK",
+                "assignee_id": 847494,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA",
+                "assignee_id": 311893,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA AUTO BODY CO",
+                "assignee_id": 1788702,
+                "size": 3,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA AUTO BODY CO LTD",
+                "assignee_id": 39611,
+                "size": 25,
+                "sizeActive": 18
+            },
+            {
+                "abbreviation": "TOYOTA AUTO BODY KABUSHIKIKAISHA",
+                "assignee_id": 2049746,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA AUTOCAR",
+                "assignee_id": 847359,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA AUTOCAR CO LTD",
+                "assignee_id": 95876,
+                "size": 9,
+                "sizeActive": 5
+            },
+            {
+                "abbreviation": "TOYOTA AUTOCAR KK",
+                "assignee_id": 262484,
+                "size": 2,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA AUTOCAR LTD",
+                "assignee_id": 5307,
+                "size": 65,
+                "sizeActive": 41
+            },
+            {
+                "abbreviation": "TOYOTA AUTOMOBILE CO LTD",
+                "assignee_id": 847355,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA AUTOMOBILE LTD",
+                "assignee_id": 516708,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA BODY R AND D CO LTD",
+                "assignee_id": 847353,
+                "size": 2,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA BOHSHOKU KK",
+                "assignee_id": 847352,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA BOSEKI KABUSHIKI KAISHA",
+                "assignee_id": 2045167,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA BOSHKU KK",
+                "assignee_id": 847351,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA BOSHOKO KK",
+                "assignee_id": 847350,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA BOSHOKU",
+                "assignee_id": 847349,
+                "size": 2,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA BOSHOKU AMERICA INC",
+                "assignee_id": 262483,
+                "size": 6,
+                "sizeActive": 6
+            },
+            {
+                "abbreviation": "TOYOTA BOSHOKU CO LTD",
+                "assignee_id": 516703,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA BOSHOKU CORP",
+                "assignee_id": 6070,
+                "size": 181,
+                "sizeActive": 167
+            },
+            {
+                "abbreviation": "TOYOTA BOSHOKU KABISHIKI KAISHA",
+                "assignee_id": 2046780,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA BOSHOKU KK",
+                "assignee_id": 494,
+                "size": 5009,
+                "sizeActive": 3751
+            },
+            {
+                "abbreviation": "TOYOTA BOSHUKU KK",
+                "assignee_id": 847347,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA BOSHYOKU KK",
+                "assignee_id": 516701,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA BOUSHOKU KK",
+                "assignee_id": 847346,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA CAELLUM INC",
+                "assignee_id": 4357174,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA CAELUM INC",
+                "assignee_id": 84972,
+                "size": 17,
+                "sizeActive": 6
+            },
+            {
+                "abbreviation": "TOYOTA CENT AND DEV",
+                "assignee_id": 516700,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA CENT R AND D LABS INC",
+                "assignee_id": 847344,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA CENT RES AND DEV",
+                "assignee_id": 386454,
+                "size": 12,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA CENT RES AND DEV LA",
+                "assignee_id": 847342,
+                "size": 4,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA CENT RES AND DEV LAB",
+                "assignee_id": 1967,
+                "size": 1274,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA CENT RES AND DEV LAB INC",
+                "assignee_id": 262482,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA CENT RES AND DEV LABS INC",
+                "assignee_id": 516699,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA CENT RES AND DRV",
+                "assignee_id": 847341,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA CENT RES DEV",
+                "assignee_id": 386453,
+                "size": 8,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA CENT RES DEV LAB",
+                "assignee_id": 516698,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA CENTRAL RES LABS",
+                "assignee_id": 1774486,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA CENTRAL RESEARCH AND DEVELOPMENT LABORATORI",
+                "assignee_id": 1913656,
+                "size": 7,
+                "sizeActive": 2
+            },
+            {
+                "abbreviation": "TOYOTA CHU KENKYUSHO KK",
+                "assignee_id": 1810109,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA CHUO KENKYUSHO KK",
+                "assignee_id": 203,
+                "size": 9732,
+                "sizeActive": 3909
+            },
+            {
+                "abbreviation": "TOYOTA CHUO KK",
+                "assignee_id": 225278,
+                "size": 4,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA CHUO KNEKYUSHO KK",
+                "assignee_id": 847330,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA CHUO KNKYUSHO KK",
+                "assignee_id": 3000673,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA CO LTD",
+                "assignee_id": 516696,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA ENG AND MFG NORTH AMERICA INC",
+                "assignee_id": 22651,
+                "size": 20,
+                "sizeActive": 10
+            },
+            {
+                "abbreviation": "TOYOTA FINANCE CORPORATION",
+                "assignee_id": 2054550,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA HOME KK",
+                "assignee_id": 4107,
+                "size": 643,
+                "sizeActive": 531
+            },
+            {
+                "abbreviation": "TOYOTA HOUSING CORP",
+                "assignee_id": 7996,
+                "size": 550,
+                "sizeActive": 548
+            },
+            {
+                "abbreviation": "TOYOTA IDOSHA KABUSHIKI KAISHA",
+                "assignee_id": 1904179,
+                "size": 2,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA IND CORP",
+                "assignee_id": 9945,
+                "size": 184,
+                "sizeActive": 163
+            },
+            {
+                "abbreviation": "TOYOTA IND SWEDEN AB",
+                "assignee_id": 119021,
+                "size": 8,
+                "sizeActive": 6
+            },
+            {
+                "abbreviation": "TOYOTA INFO TECHNOLOGY CENT CO LTD",
+                "assignee_id": 90075,
+                "size": 2,
+                "sizeActive": 2
+            },
+            {
+                "abbreviation": "TOYOTA INFOTECHNOLOGY CENT CO LTD",
+                "assignee_id": 29674,
+                "size": 21,
+                "sizeActive": 15
+            },
+            {
+                "abbreviation": "TOYOTA INFOTECHNOLOGY CENT USA INC",
+                "assignee_id": 51899,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA IT KAIHATSU CENT KK",
+                "assignee_id": 5076,
+                "size": 340,
+                "sizeActive": 150
+            },
+            {
+                "abbreviation": "TOYOTA JIDASHI KABUSHIKI KAISHA",
+                "assignee_id": 2092489,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA JIDHOSHA KABUSHIKI KAISHA",
+                "assignee_id": 2091592,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA JIDHOSHA KK",
+                "assignee_id": 847301,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOHA KABUSHIKI KAISHA",
+                "assignee_id": 1899563,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOHS KK",
+                "assignee_id": 847300,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOHSA KK",
+                "assignee_id": 516689,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSA KABSIKI KAISHA",
+                "assignee_id": 1890945,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSA KABUSHIKI KAISA",
+                "assignee_id": 1912888,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSA KABUSHIKI KAISHA",
+                "assignee_id": 1886430,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSA KABUSKI KAISHA",
+                "assignee_id": 1913910,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSA KOGYO KABUSHIKI KAISHA",
+                "assignee_id": 1883793,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSAH KABUSHIKI KAISHA",
+                "assignee_id": 1950114,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSAH KOGYO KK",
+                "assignee_id": 3200663,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSH KK",
+                "assignee_id": 847299,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA",
+                "assignee_id": 847298,
+                "size": 10,
+                "sizeActive": 4
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA CO LTD",
+                "assignee_id": 847296,
+                "size": 3,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA COGYO KK",
+                "assignee_id": 3253300,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA ENG AND MFG NORTH AMERICA",
+                "assignee_id": 1846963,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA HABUSHIKI KAISHA",
+                "assignee_id": 2028914,
+                "size": 6,
+                "sizeActive": 4
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA HANB",
+                "assignee_id": 1799566,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA HANBAI KK",
+                "assignee_id": 1799303,
+                "size": 5,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA HOKKAIDO KK",
+                "assignee_id": 43003,
+                "size": 33,
+                "sizeActive": 21
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABABUSHI KAISHA 1",
+                "assignee_id": 1895246,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABOSHIKI KAISHA",
+                "assignee_id": 2011576,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABSUHIKI KAISHA",
+                "assignee_id": 1884558,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABUBUSHIKI KAISHA",
+                "assignee_id": 1991071,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABURHIKI KAISHA",
+                "assignee_id": 1955593,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABUSHIKI",
+                "assignee_id": 847293,
+                "size": 6,
+                "sizeActive": 4
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABUSHIKI KABUSHIKI KAISHA",
+                "assignee_id": 1949671,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABUSHIKI KAIS",
+                "assignee_id": 1992663,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABUSHIKI KAISAH",
+                "assignee_id": 1918819,
+                "size": 3,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABUSHIKI KAISH",
+                "assignee_id": 2013044,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABUSHIKI KAISHA 50",
+                "assignee_id": 1953936,
+                "size": 4,
+                "sizeActive": 3
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABUSHIKI KAISHA 50 SHARE",
+                "assignee_id": 2003121,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABUSHIKI KAISHA AND NIPPON SOKEN",
+                "assignee_id": 2021278,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABUSHIKI KAISHA AND TOYOTACHO",
+                "assignee_id": 2002346,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABUSHIKI KAISHA KABUSHIKI KAISHA T",
+                "assignee_id": 1931926,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABUSHIKI KAISHA KAISHA",
+                "assignee_id": 1979928,
+                "size": 5,
+                "sizeActive": 5
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABUSHIKI KAISHA NO 1",
+                "assignee_id": 1870114,
+                "size": 7,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABUSHIKI KAISHA NO 1 TYOTA CHO TOY",
+                "assignee_id": 1901376,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABUSHIKI KAISHA NO1",
+                "assignee_id": 1900940,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABUSHIKI KAISHA OF",
+                "assignee_id": 2012335,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABUSHIKI KAISHA OF 1",
+                "assignee_id": 1931134,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABUSHIKI KAISHA OF TOYOTA SHI",
+                "assignee_id": 1928158,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABUSHIKI KAISHA TABUCHI AND ASSOCIA",
+                "assignee_id": 1950677,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABUSHIKI KAISHA TOSHIBA",
+                "assignee_id": 1982778,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABUSHIKI KAISHA TOYOTA CHO",
+                "assignee_id": 1891221,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABUSHIKI KAISHA TOYOTA SHI",
+                "assignee_id": 1913334,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABUSHIKI KAISHE",
+                "assignee_id": 2094875,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABUSHIKI KAISSSHA",
+                "assignee_id": 1956098,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABUSHIKI KALSHA",
+                "assignee_id": 2053329,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABUSHIKI KASHIA",
+                "assignee_id": 1914344,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABUSHIKI KIASHA",
+                "assignee_id": 1912604,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABUSHIKI KISHA",
+                "assignee_id": 1944258,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABUSHIKIA KAISHA",
+                "assignee_id": 1955146,
+                "size": 3,
+                "sizeActive": 2
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABUSHIKIKAISHA 1",
+                "assignee_id": 1913633,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABUSHISKI KAISHA",
+                "assignee_id": 2033637,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABUSHKIKI KAISHA",
+                "assignee_id": 2031936,
+                "size": 2,
+                "sizeActive": 2
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABUSIKI KAISA",
+                "assignee_id": 1898863,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KABUSKIKI KAISHA",
+                "assignee_id": 2035319,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KADUSHIKI KAISHA",
+                "assignee_id": 1969331,
+                "size": 3,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KADUSHIKI KAISKA",
+                "assignee_id": 1971114,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KAGUSHIKI KAISHA",
+                "assignee_id": 1979809,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KAUBSHIKI KAISHA",
+                "assignee_id": 2084375,
+                "size": 2,
+                "sizeActive": 2
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KAUSHIKI KAISHA",
+                "assignee_id": 1879639,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KBUSHIKI KAISHA",
+                "assignee_id": 1897699,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KEGK",
+                "assignee_id": 1808817,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KGYO KK",
+                "assignee_id": 2874867,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KIBUSHIKI KAISHA",
+                "assignee_id": 1961919,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KIGY",
+                "assignee_id": 1784048,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KK",
+                "assignee_id": 11,
+                "size": 129476,
+                "sizeActive": 55184
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KOEYO KK",
+                "assignee_id": 1787386,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KOGKYO KK",
+                "assignee_id": 1792897,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KOGY",
+                "assignee_id": 1815418,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KOGYO",
+                "assignee_id": 1878676,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KOGYO KAB",
+                "assignee_id": 1772487,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KOGYO KABUSHI KAISHA",
+                "assignee_id": 1874595,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KOGYO KABUSHIKI KAISA",
+                "assignee_id": 1880065,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KOGYO KABUSHIKI KAISA 1",
+                "assignee_id": 1881313,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KOGYO KABUSHIKI KAISHA 1",
+                "assignee_id": 1871143,
+                "size": 8,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KOGYO KABUSHIKI KAISHA AICHI KEN",
+                "assignee_id": 1893015,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KOGYO KABUSHIKI KAISHA NO 1",
+                "assignee_id": 1877346,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KOGYO KABUSHIKI KAISHA NO 1 TOYOTA",
+                "assignee_id": 1877072,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KOGYO KABUSHIKI KASHA",
+                "assignee_id": 1867342,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KOGYO KABUSIKI KAISHA",
+                "assignee_id": 1869975,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KOGYO KALBUSHIKI KAISHA",
+                "assignee_id": 1888606,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KOGYO KAUSHIKI KAISHA",
+                "assignee_id": 1879403,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KOGYO KBUSHIKI KAISHA",
+                "assignee_id": 1876018,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KOGYO KK",
+                "assignee_id": 1815419,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KOKYO KK",
+                "assignee_id": 2823952,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KOYGO",
+                "assignee_id": 3016117,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KOYO KABUSHIKI KAISHA",
+                "assignee_id": 1883967,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA KUBUSHIKI KAISHA 1 TOYATA CHO",
+                "assignee_id": 1906624,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHA SEISAKUSHO KK",
+                "assignee_id": 386449,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHAS KOGYO KK",
+                "assignee_id": 3231201,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHI KABUSHIK KAISHA",
+                "assignee_id": 2011322,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHI KK",
+                "assignee_id": 847289,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHI KOGY",
+                "assignee_id": 3166052,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHIA KK",
+                "assignee_id": 847288,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHIA KOGYO KK",
+                "assignee_id": 3192130,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHIYA KOGYO K",
+                "assignee_id": 1772349,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHN KOGYO KK",
+                "assignee_id": 1787542,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHO KABUSHIKI KAISHA",
+                "assignee_id": 1926206,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHOKKI KK",
+                "assignee_id": 1146,
+                "size": 2625,
+                "sizeActive": 1952
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHOKKI SEISAKUSHO KK",
+                "assignee_id": 4549,
+                "size": 104,
+                "sizeActive": 77
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHU KOGYO KK",
+                "assignee_id": 3035694,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOSHUA KOGYO",
+                "assignee_id": 1802634,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOUSHA KABUSHII KAISHA",
+                "assignee_id": 1918167,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDOUSHA KABUSHIKI KAIS",
+                "assignee_id": 847287,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDSHA KABUSIKI KAISHA",
+                "assignee_id": 1912183,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIDSOHA KK",
+                "assignee_id": 847286,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA JIDUSHA KK",
+                "assignee_id": 847285,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIKOSHA KABUSHIKI KAISHA",
+                "assignee_id": 1893861,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JIOSHA KABUSHIKI KAISHA",
+                "assignee_id": 1925949,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JODISHA KK",
+                "assignee_id": 516687,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JODISHA KOGYO KK",
+                "assignee_id": 1795744,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JODSHA KOGYO KK",
+                "assignee_id": 3201423,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JOIDOSHA KABUSHIKI KAISHA",
+                "assignee_id": 1915967,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JOSHIDA KK",
+                "assignee_id": 847284,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JUDOSHA KOGY",
+                "assignee_id": 3166770,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA JUDOSHA KOGYO KK",
+                "assignee_id": 1774137,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA KAGAKU KOGYO",
+                "assignee_id": 847283,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA KAGAKU KOGYO KK",
+                "assignee_id": 174190,
+                "size": 8,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA KENKYUSHO KK",
+                "assignee_id": 2863426,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA KK",
+                "assignee_id": 516685,
+                "size": 15,
+                "sizeActive": 7
+            },
+            {
+                "abbreviation": "TOYOTA LIDOSHA KOGYO KK",
+                "assignee_id": 1787035,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA MACS INC",
+                "assignee_id": 386448,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA MAPMASTER INC",
+                "assignee_id": 119020,
+                "size": 15,
+                "sizeActive": 15
+            },
+            {
+                "abbreviation": "TOYOTA MEDIA STATION INCORPORATED",
+                "assignee_id": 1997743,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA MOROR CORP",
+                "assignee_id": 847270,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA MOTDR CO LTD",
+                "assignee_id": 3007636,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA MOTO ENG AND MFG NORTH AMERICA INC",
+                "assignee_id": 847269,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA MOTOR AND ENGINEERING NORTH AMERICA INC",
+                "assignee_id": 2086797,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA MOTOR CO",
+                "assignee_id": 41822,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA MOTOR CO JAPAN",
+                "assignee_id": 84970,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA MOTOR CO LTD",
+                "assignee_id": 240,
+                "size": 350,
+                "sizeActive": 268
+            },
+            {
+                "abbreviation": "TOYOTA MOTOR CO LTD NO",
+                "assignee_id": 1891291,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA MOTOR CORP",
+                "assignee_id": 1501,
+                "size": 1595,
+                "sizeActive": 1465
+            },
+            {
+                "abbreviation": "TOYOTA MOTOR CORP AUSTRALIA LTD",
+                "assignee_id": 311886,
+                "size": 4,
+                "sizeActive": 2
+            },
+            {
+                "abbreviation": "TOYOTA MOTOR CREDIT CORP",
+                "assignee_id": 847268,
+                "size": 12,
+                "sizeActive": 10
+            },
+            {
+                "abbreviation": "TOYOTA MOTOR EAST JAPAN INC",
+                "assignee_id": 102587,
+                "size": 36,
+                "sizeActive": 32
+            },
+            {
+                "abbreviation": "TOYOTA MOTOR ENG AND MFG",
+                "assignee_id": 141756,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA MOTOR ENG AND MFG NA",
+                "assignee_id": 847266,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA MOTOR ENG AND MFG NORTH AMERICA",
+                "assignee_id": 15456,
+                "size": 7,
+                "sizeActive": 7
+            },
+            {
+                "abbreviation": "TOYOTA MOTOR ENG AND MFG NORTH AMERICA INC",
+                "assignee_id": 2580,
+                "size": 65,
+                "sizeActive": 64
+            },
+            {
+                "abbreviation": "TOYOTA MOTOR ENG AND MFG NORTH AMERICA TEM",
+                "assignee_id": 847267,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA MOTOR ENG AND MFG NORTH AMERICAS",
+                "assignee_id": 1734281,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA MOTOR ENGINEERING AND MANUFACTURING NORTH A",
+                "assignee_id": 2018077,
+                "size": 14,
+                "sizeActive": 9
+            },
+            {
+                "abbreviation": "TOYOTA MOTOR EURO",
+                "assignee_id": 386447,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA MOTOR EURO NV",
+                "assignee_id": 262476,
+                "size": 3,
+                "sizeActive": 2
+            },
+            {
+                "abbreviation": "TOYOTA MOTOR EURO NV SA",
+                "assignee_id": 68999,
+                "size": 31,
+                "sizeActive": 30
+            },
+            {
+                "abbreviation": "TOYOTA MOTOR HOKKAIDO CORP",
+                "assignee_id": 847265,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA MOTOR HOKKAIDO INC",
+                "assignee_id": 386446,
+                "size": 4,
+                "sizeActive": 2
+            },
+            {
+                "abbreviation": "TOYOTA MOTOR KK",
+                "assignee_id": 5658,
+                "size": 28,
+                "sizeActive": 18
+            },
+            {
+                "abbreviation": "TOYOTA MOTOR KYUSHU INC",
+                "assignee_id": 847264,
+                "size": 2,
+                "sizeActive": 2
+            },
+            {
+                "abbreviation": "TOYOTA MOTOR MFG",
+                "assignee_id": 847263,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA MOTOR MFG CO LTD",
+                "assignee_id": 847262,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA MOTOR MFG NORTH AMERICA",
+                "assignee_id": 110224,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA MOTOR SALES",
+                "assignee_id": 1794561,
+                "size": 38,
+                "sizeActive": 21
+            },
+            {
+                "abbreviation": "TOYOTA MOTOR SALES USA INC",
+                "assignee_id": 39610,
+                "size": 11,
+                "sizeActive": 2
+            },
+            {
+                "abbreviation": "TOYOTA MOTOR TOHOKU CORP",
+                "assignee_id": 847261,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA MOTORS CO LTD",
+                "assignee_id": 90074,
+                "size": 3,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA MOTORS KK",
+                "assignee_id": 3119655,
+                "size": 3,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA MOTORSPORT GMBH",
+                "assignee_id": 262475,
+                "size": 3,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA NAGOYA KYOIKU CENT KK",
+                "assignee_id": 847260,
+                "size": 2,
+                "sizeActive": 2
+            },
+            {
+                "abbreviation": "TOYOTA NIDOSHA KOGYO KK",
+                "assignee_id": 1828812,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA RES AND DEV CENT CHINA CO LTD BEIJI",
+                "assignee_id": 386445,
+                "size": 3,
+                "sizeActive": 3
+            },
+            {
+                "abbreviation": "TOYOTA SCHOOL FOUND",
+                "assignee_id": 46893,
+                "size": 33,
+                "sizeActive": 16
+            },
+            {
+                "abbreviation": "TOYOTA SEIKI JIDOSHA KK",
+                "assignee_id": 847257,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA SHATAI KK",
+                "assignee_id": 556,
+                "size": 3821,
+                "sizeActive": 1473
+            },
+            {
+                "abbreviation": "TOYOTA SHATSI KK",
+                "assignee_id": 1790030,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA SIDOSHA KK",
+                "assignee_id": 516680,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA SIDOSHA KOGYO",
+                "assignee_id": 3166673,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA SIDOSHOKKI SEISAKUSHO KK",
+                "assignee_id": 516679,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA STEEL CENT CO LTD",
+                "assignee_id": 102586,
+                "size": 16,
+                "sizeActive": 11
+            },
+            {
+                "abbreviation": "TOYOTA TECH CENT",
+                "assignee_id": 174187,
+                "size": 5,
+                "sizeActive": 2
+            },
+            {
+                "abbreviation": "TOYOTA TECH CENT USA INC",
+                "assignee_id": 20115,
+                "size": 4,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA TECH DEV CORP",
+                "assignee_id": 60414,
+                "size": 29,
+                "sizeActive": 25
+            },
+            {
+                "abbreviation": "TOYOTA TECHNO SERVICE CORP",
+                "assignee_id": 516676,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA TECHNO SERVICE KK",
+                "assignee_id": 516675,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA TEKKO KK",
+                "assignee_id": 25461,
+                "size": 15,
+                "sizeActive": 3
+            },
+            {
+                "abbreviation": "TOYOTA TIDOSHA KK",
+                "assignee_id": 847242,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA TSUSHO AMERICA INC",
+                "assignee_id": 386440,
+                "size": 4,
+                "sizeActive": 3
+            },
+            {
+                "abbreviation": "TOYOTA TSUSHO CO LTD",
+                "assignee_id": 516674,
+                "size": 2,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA TSUSHO CORP",
+                "assignee_id": 33519,
+                "size": 51,
+                "sizeActive": 35
+            },
+            {
+                "abbreviation": "TOYOTA TSUSHO CORPORATION 1 3 INTEREST",
+                "assignee_id": 1965678,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTA TSUSHO ELECTRONICS CORP",
+                "assignee_id": 386439,
+                "size": 3,
+                "sizeActive": 2
+            },
+            {
+                "abbreviation": "TOYOTA TSUSHO KK",
+                "assignee_id": 9748,
+                "size": 189,
+                "sizeActive": 79
+            },
+            {
+                "abbreviation": "TOYOTA TSUSHO MATEX CORP",
+                "assignee_id": 1694042,
+                "size": 2,
+                "sizeActive": 2
+            },
+            {
+                "abbreviation": "TOYOTA TSUSHO TAIWAN CO LTD",
+                "assignee_id": 516673,
+                "size": 3,
+                "sizeActive": 3
+            },
+            {
+                "abbreviation": "TOYOTA TSUSYO CORP",
+                "assignee_id": 847239,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTA TURBINE AND SYSTEM KK",
+                "assignee_id": 51897,
+                "size": 36,
+                "sizeActive": 17
+            },
+            {
+                "abbreviation": "TOYOTA TURBINE AND SYSTEMS INC",
+                "assignee_id": 1734285,
+                "size": 3,
+                "sizeActive": 3
+            },
+            {
+                "abbreviation": "TOYOTA VIDOSHA KOGYO KK",
+                "assignee_id": 3194338,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOTAJIDOSHA KABUSHIKIKAISHA",
+                "assignee_id": 1962792,
+                "size": 4,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYOTO JIDOSHA KK",
+                "assignee_id": 95875,
+                "size": 12,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOYA JIDOSHA KK",
+                "assignee_id": 386432,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOYA TSUSHO KK",
+                "assignee_id": 847203,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "USTER TECHNOLOGIES",
+                "assignee_id": 510366,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "USTER TECHNOLOGIES AG",
+                "assignee_id": 9387,
+                "size": 258,
+                "sizeActive": 162
+            },
+            {
+                "abbreviation": "USTER TECHNOLOGIES INC",
+                "assignee_id": 224345,
+                "size": 4,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "YOKOGAWA DENKI KK",
+                "assignee_id": 170,
+                "size": 10426,
+                "sizeActive": 2638
+            },
+            {
+                "abbreviation": "YOKOGAWA SHOJI KK",
+                "assignee_id": 154788,
+                "size": 9,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "ZELLWEGER USTER",
+                "assignee_id": 1966313,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "ZELLWEGER USTER AG",
+                "assignee_id": 13594,
+                "size": 144,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "ZELLWEGER USTER INC",
+                "assignee_id": 39498,
+                "size": 13,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "ZELLWEGER USTER LTD",
+                "assignee_id": 374444,
+                "size": 42,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "ZELLWEGER USTER SA",
+                "assignee_id": 1774361,
+                "size": 6,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "ZELLWEGER USTER TECHNOLOGIES",
+                "assignee_id": 490947,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "ZELLWEGER USTER TECHNOLOGIES INC",
+                "assignee_id": 1864231,
+                "size": 1,
+                "sizeActive": 0
+            }
+        ],
+        "eset": 11,
+        "name": "Toyota Motor Corp",
+        "size": 200137,
+        "sizeActive": 80518,
+        "type": "sub"
+    },
+    {
+        "abbreviation": "TOYO BOSEKI KK",
+        "assignees": [
+            {
+                "abbreviation": "JAPAN EXCLAN CO LTD",
+                "assignee_id": 3008118,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "JAPAN EXLAN CO LTD",
+                "assignee_id": 4931,
+                "size": 847,
+                "sizeActive": 137
+            },
+            {
+                "abbreviation": "JAPAN EXPLAN CO LTD",
+                "assignee_id": 2953073,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KUREHA CHEM IND CO LTD",
+                "assignee_id": 849,
+                "size": 3350,
+                "sizeActive": 472
+            },
+            {
+                "abbreviation": "KUREHA CORP",
+                "assignee_id": 4309,
+                "size": 670,
+                "sizeActive": 517
+            },
+            {
+                "abbreviation": "KUREHA ECOLOGY MANAGEMENT CO LTD",
+                "assignee_id": 1218937,
+                "size": 3,
+                "sizeActive": 3
+            },
+            {
+                "abbreviation": "KUREHA ELASTOMER CO LTD",
+                "assignee_id": 339158,
+                "size": 4,
+                "sizeActive": 2
+            },
+            {
+                "abbreviation": "KUREHA ENG KK",
+                "assignee_id": 16763,
+                "size": 88,
+                "sizeActive": 24
+            },
+            {
+                "abbreviation": "KUREHA EXTECH CO LTD",
+                "assignee_id": 1218936,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KUREHA GOSEN CO LTD",
+                "assignee_id": 431543,
+                "size": 3,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "KUREHA GOSEN KK",
+                "assignee_id": 33086,
+                "size": 52,
+                "sizeActive": 8
+            },
+            {
+                "abbreviation": "KUREHA KAGAKU KK",
+                "assignee_id": 122965,
+                "size": 16,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KUREHA KAGAKU KOGYO K K",
+                "assignee_id": 3012104,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KUREHA KAGAKU KOGYO KK",
+                "assignee_id": 3141,
+                "size": 1369,
+                "sizeActive": 38
+            },
+            {
+                "abbreviation": "KUREHA KARAKU KOGYO KK",
+                "assignee_id": 1795243,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KUREHA KK",
+                "assignee_id": 1218931,
+                "size": 2,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "KUREHA LTD",
+                "assignee_id": 612067,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "KUREHA PLASTICS CO LTD",
+                "assignee_id": 37058,
+                "size": 44,
+                "sizeActive": 2
+            },
+            {
+                "abbreviation": "KUREHA TECHNO ENG CO LTD",
+                "assignee_id": 280877,
+                "size": 5,
+                "sizeActive": 3
+            },
+            {
+                "abbreviation": "KUREHA TEKUNOENJI KK",
+                "assignee_id": 612066,
+                "size": 2,
+                "sizeActive": 2
+            },
+            {
+                "abbreviation": "NISHIKI TRADING CO LTD",
+                "assignee_id": 583902,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "SHINKO SANGYO CO LTD",
+                "assignee_id": 199554,
+                "size": 10,
+                "sizeActive": 5
+            },
+            {
+                "abbreviation": "TAIYO KAKEN CO LTD",
+                "assignee_id": 1777304,
+                "size": 19,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYO BFEKI KK",
+                "assignee_id": 2981189,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYO BOEKI CO LTD",
+                "assignee_id": 2974037,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYO BOEKI KK",
+                "assignee_id": 848038,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYO BOSEI KOGYO KK",
+                "assignee_id": 848035,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYO BOSEK KK",
+                "assignee_id": 3162220,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYO BOSEKI",
+                "assignee_id": 76252,
+                "size": 1,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TOYO BOSEKI CO LTD",
+                "assignee_id": 80380,
+                "size": 12,
+                "sizeActive": 2
+            },
+            {
+                "abbreviation": "TOYO BOSEKI KK",
+                "assignee_id": 1632,
+                "size": 1379,
+                "sizeActive": 668
+            },
+            {
+                "abbreviation": "TOYO BUSEKI KK",
+                "assignee_id": 848026,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYO CLOTH CO",
+                "assignee_id": 41825,
+                "size": 120,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYO CLOTH CO LTD",
+                "assignee_id": 22047,
+                "size": 84,
+                "sizeActive": 41
+            },
+            {
+                "abbreviation": "TOYO DOSEKI KK",
+                "assignee_id": 847978,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYO GASEI CO LTD",
+                "assignee_id": 847947,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYO GOSEI CO LTD",
+                "assignee_id": 37637,
+                "size": 73,
+                "sizeActive": 68
+            },
+            {
+                "abbreviation": "TOYO GOSEI KOGYO CO LTD",
+                "assignee_id": 48453,
+                "size": 27,
+                "sizeActive": 12
+            },
+            {
+                "abbreviation": "TOYO GOSEI KOGYO KK",
+                "assignee_id": 10552,
+                "size": 142,
+                "sizeActive": 39
+            },
+            {
+                "abbreviation": "TOYO KASEI CO LTD",
+                "assignee_id": 847874,
+                "size": 4,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYO KASEI KOGYO CO LTD",
+                "assignee_id": 8299,
+                "size": 222,
+                "sizeActive": 31
+            },
+            {
+                "abbreviation": "TOYO KASEI KOGYO KK",
+                "assignee_id": 847871,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYO KASEI KOSYO KK",
+                "assignee_id": 3139639,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYO KNITTING CO LTD",
+                "assignee_id": 847840,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYO KOEKI KK",
+                "assignee_id": 847838,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYO KOHKI KK",
+                "assignee_id": 847829,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYO KOSEI KOGYO CO LTD",
+                "assignee_id": 847822,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOBO CO LTD",
+                "assignee_id": 119025,
+                "size": 175,
+                "sizeActive": 104
+            },
+            {
+                "abbreviation": "TOYOBO CORP",
+                "assignee_id": 516763,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOBO ENG CO LTD",
+                "assignee_id": 39612,
+                "size": 42,
+                "sizeActive": 17
+            },
+            {
+                "abbreviation": "TOYOBO KK",
+                "assignee_id": 118,
+                "size": 16609,
+                "sizeActive": 3718
+            },
+            {
+                "abbreviation": "TOYOBO PETCORD KK",
+                "assignee_id": 311904,
+                "size": 10,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOBO PETCORD LTD",
+                "assignee_id": 2906400,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOBO RES CENT CO LTD",
+                "assignee_id": 386474,
+                "size": 0,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TOYOBO SPECIALTIES TRADING CO LTD",
+                "assignee_id": 34240,
+                "size": 50,
+                "sizeActive": 46
+            },
+            {
+                "abbreviation": "TOYOBO SPECIALTIES TRADING KK",
+                "assignee_id": 40697,
+                "size": 35,
+                "sizeActive": 33
+            },
+            {
+                "abbreviation": "YUHO CO LTD",
+                "assignee_id": 374960,
+                "size": 3,
+                "sizeActive": 3
+            },
+            {
+                "abbreviation": "YUHO KK",
+                "assignee_id": 117979,
+                "size": 15,
+                "sizeActive": 7
+            }
+        ],
+        "eset": 118,
+        "name": "TOYOBO KK",
+        "size": 24483,
+        "sizeActive": 5436,
+        "type": "sub"
+    },
+    {
+        "abbreviation": "TAIYO BOSEKI KK",
+        "assignees": [
+            {
+                "abbreviation": "TAIYO BOEKI KK",
+                "assignee_id": 886699,
+                "size": 3,
+                "sizeActive": 2
+            },
+            {
+                "abbreviation": "TAIYO BOSEKI KK",
+                "assignee_id": 886697,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TAIYO GOSEI KK",
+                "assignee_id": 110587,
+                "size": 13,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TAIYO KASEI KK",
+                "assignee_id": 226746,
+                "size": 6,
+                "sizeActive": 1
+            },
+            {
+                "abbreviation": "TAIYO KOEI KK",
+                "assignee_id": 526708,
+                "size": 2,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TAIYO KOEKI KK",
+                "assignee_id": 886628,
+                "size": 1,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TAIYO KOGEI KK",
+                "assignee_id": 197902,
+                "size": 7,
+                "sizeActive": 0
+            },
+            {
+                "abbreviation": "TAIYO KOKI KK",
+                "assignee_id": 226745,
+                "size": 9,
+                "sizeActive": 7
+            },
+            {
+                "abbreviation": "TAIYO KOSEI KK",
+                "assignee_id": 886623,
+                "size": 1,
+                "sizeActive": 0
+            }
+        ],
+        "eset": 110587,
+        "name": "TAIYO GOSEI KK",
+        "size": 43,
+        "sizeActive": 11,
+        "type": "sub"
+    }
+]
