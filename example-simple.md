@@ -206,13 +206,26 @@ curl -XGET 'localhost:9200/example-simple/_search?pretty' -d '
 
 
 ## TODO:
-## 1) hybrid query (boolean)
-## 2) hybrid query (all_fields)
+## 1) hybrid query (all_fields)
+## 2) hybrid query (boolean)
 ## 3) add filter - either is_grouped, or (!is_grouped & (size>0 || litigation_volume>0 ))
 
 
+## Hybrid query (all_fields)
+Checks at Org, Assignee and HRN levels.
+```
+curl -XGET 'localhost:9200/example-simple/_search?pretty' -d '
+{
+  "query": {
+    "match_phrase_prefix": {
+      "_all": "XXX"
+    }
+  }
+}'
+```
+
+
 ## Hybrid query (boolean)
-Replease XXX with your search phrase.
 Checks at Org, Assignee and HRN levels.
 ```
 curl -XGET 'localhost:9200/example-simple/_search?pretty' -d '
@@ -260,3 +273,6 @@ curl -XGET 'localhost:9200/example-simple/_search?pretty' -d '
     }
 }'
 ```
+
+
+
