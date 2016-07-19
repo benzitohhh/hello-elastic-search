@@ -1,17 +1,17 @@
-# Nested example
+# Example simple
 
 
 # To show all documents:
-curl -XGET 'localhost:9200/test-index/_search?pretty'
+curl -XGET 'localhost:9200/example-simple/_search?pretty'
 
 
 ## To clear index:
-curl -XDELETE 'localhost:9200/test-index?pretty'
+curl -XDELETE 'localhost:9200/example-simple?pretty'
 
 
 ## Add mapping (two-level nesting):
 ```
-curl -PUT 'localhost:9200/test-index' -d '
+curl -PUT 'localhost:9200/example-simple' -d '
 {
   "mappings": {
     "organisation": {
@@ -52,7 +52,7 @@ curl -PUT 'localhost:9200/test-index' -d '
 
 ## Add 1 document
 ```
-curl -PUT 'localhost:9200/test-index/organisation/1' -d '
+curl -PUT 'localhost:9200/example-simple/organisation/1' -d '
 {
     "name": "International Business Machines",
     "assignees": [
@@ -75,7 +75,7 @@ curl -PUT 'localhost:9200/test-index/organisation/1' -d '
 Matches:     "INTERNATIONAL", "business", "Machines""
 No matches:  "Int", "Machine", "ibm"
 ```
-curl -XGET 'localhost:9200/test-index/_search?pretty' -d '
+curl -XGET 'localhost:9200/example-simple/_search?pretty' -d '
 {
   "query": {
     "match": {
@@ -90,7 +90,7 @@ curl -XGET 'localhost:9200/test-index/_search?pretty' -d '
 Matches:     "ibm"
 No matches:  "international"
 ```
-curl -XGET 'localhost:9200/test-index/_search?pretty' -d '
+curl -XGET 'localhost:9200/example-simple/_search?pretty' -d '
 {
   "query": {
     "nested": {
@@ -109,7 +109,7 @@ curl -XGET 'localhost:9200/test-index/_search?pretty' -d '
 ## Query by Assignee.HumanReadableName.name (one-level nested query):
 This does NOT work, as HumanReadableName is nested at second-level (hence out of scope).
 ```
-curl -XGET 'localhost:9200/test-index/_search?pretty' -d '
+curl -XGET 'localhost:9200/example-simple/_search?pretty' -d '
 {
   "query": {
     "nested": {
@@ -129,7 +129,7 @@ curl -XGET 'localhost:9200/test-index/_search?pretty' -d '
 Matches:     "big", "blue", "BIG BLUE"
 No matches:  "international", "ibm"
 ```
-curl -XGET 'localhost:9200/test-index/_search?pretty' -d '
+curl -XGET 'localhost:9200/example-simple/_search?pretty' -d '
 {
   "query": {
     "nested": {
@@ -154,7 +154,7 @@ curl -XGET 'localhost:9200/test-index/_search?pretty' -d '
 Matches:     gte 1, gte 27
 No matches:  gte 28
 ```
-curl -XGET 'localhost:9200/test-index/_search?pretty' -d '
+curl -XGET 'localhost:9200/example-simple/_search?pretty' -d '
 {
   "query": {
     "nested": {
@@ -184,7 +184,7 @@ curl -XGET 'localhost:9200/test-index/_search?pretty' -d '
 Matches:     "ctr", "tabulating"
 No matches:  "international", "ibm"
 ```
-curl -XGET 'localhost:9200/test-index/_search?pretty' -d '
+curl -XGET 'localhost:9200/example-simple/_search?pretty' -d '
 {
   "query": {
     "nested": {
@@ -201,5 +201,64 @@ curl -XGET 'localhost:9200/test-index/_search?pretty' -d '
       }
     }
   }
+}'
+```
+
+
+## TODO:
+## 1) hybrid query (boolean)
+## 2) hybrid query (all_fields)
+## 3) add filter - either is_grouped, or (!is_grouped & (size>0 || litigation_volume>0 ))
+
+
+## Hybrid query (boolean)
+```
+curl -XGET 'localhost:9200/example-simple/_search?pretty' -d '
+{
+    "query": {
+        "bool": {
+            "should": [
+
+                {
+                    "match": { "name": "XXX" }
+                },
+
+                {
+                    "query": {
+                        "nested": {
+                            "path": "assignees",
+                            "query": {
+                                "match": {
+                                    "assignees.abbreviation": "XXX"
+                                }
+                            }
+                        }
+                    }
+                },
+
+                {
+                    "query": {
+                        "nested": {
+                            "path": "assignees",
+                            "query": {
+                                "nested": {
+                                    "path": "assignees.human_readable_names",
+                                    "query": {
+                                        "match": {
+                                            "assignees.human_readable_names.name": "XXX"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+
+
+
+
+            ]
+        }
+    }
 }'
 ```
