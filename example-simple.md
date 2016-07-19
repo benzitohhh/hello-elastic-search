@@ -72,13 +72,13 @@ curl -PUT 'localhost:9200/example-simple/organisation/1' -d '
 
 
 ## Query by Org.name
-Matches:     "INTERNATIONAL", "business", "Machines""
-No matches:  "Int", "Machine", "ibm"
+Matches:     "INTERNATIONAL", "business", "Machines", "Int", "Machine"
+No matches:  "ibm"
 ```
 curl -XGET 'localhost:9200/example-simple/_search?pretty' -d '
 {
   "query": {
-    "match": {
+    "match_phrase_prefix": {
       "name": "International"
     }
   }
@@ -96,7 +96,7 @@ curl -XGET 'localhost:9200/example-simple/_search?pretty' -d '
     "nested": {
       "path": "assignees",
       "query": {
-          "match": {
+          "match_phrase_prefix": {
               "assignees.abbreviation": "IBM"
           }
       }
@@ -115,7 +115,7 @@ curl -XGET 'localhost:9200/example-simple/_search?pretty' -d '
     "nested": {
       "path": "assignees",
       "query": {
-          "match": {
+          "match_phrase_prefix": {
               "assignees.human_readable_names.name": "Big Blue"
           }
       }
@@ -138,7 +138,7 @@ curl -XGET 'localhost:9200/example-simple/_search?pretty' -d '
           "nested": {
               "path": "assignees.human_readable_names",
               "query": {
-                  "match": {
+                  "match_phrase_prefix": {
                       "assignees.human_readable_names.name": "Big"
                   }
               }
@@ -193,7 +193,7 @@ curl -XGET 'localhost:9200/example-simple/_search?pretty' -d '
           "nested": {
               "path": "assignees.legal_entities",
               "query": {
-                  "match": {
+                  "match_phrase_prefix": {
                       "assignees.legal_entities.name": "ctr"
                   }
               }
@@ -212,15 +212,16 @@ curl -XGET 'localhost:9200/example-simple/_search?pretty' -d '
 
 
 ## Hybrid query (boolean)
+Replease XXX with your search phrase.
+Checks at Org, Assignee and HRN levels.
 ```
 curl -XGET 'localhost:9200/example-simple/_search?pretty' -d '
 {
     "query": {
         "bool": {
             "should": [
-
                 {
-                    "match": { "name": "XXX" }
+                    "match_phrase_prefix": { "name": "XXX" }
                 },
 
                 {
@@ -228,7 +229,7 @@ curl -XGET 'localhost:9200/example-simple/_search?pretty' -d '
                         "nested": {
                             "path": "assignees",
                             "query": {
-                                "match": {
+                                "match_phrase_prefix": {
                                     "assignees.abbreviation": "XXX"
                                 }
                             }
@@ -244,7 +245,7 @@ curl -XGET 'localhost:9200/example-simple/_search?pretty' -d '
                                 "nested": {
                                     "path": "assignees.human_readable_names",
                                     "query": {
-                                        "match": {
+                                        "match_phrase_prefix": {
                                             "assignees.human_readable_names.name": "XXX"
                                         }
                                     }
@@ -253,9 +254,6 @@ curl -XGET 'localhost:9200/example-simple/_search?pretty' -d '
                         }
                     }
                 }
-
-
-
 
             ]
         }
