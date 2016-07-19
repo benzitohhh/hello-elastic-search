@@ -72,10 +72,8 @@ curl -PUT 'localhost:9200/test-index/organisation/1' -d '
 
 
 ## Query by Org.name
-
 Matches:     "INTERNATIONAL", "business", "Machines""
 No matches:  "Int", "Machine", "ibm"
-
 ```
 curl -XGET 'localhost:9200/test-index/_search?pretty' -d '
 {
